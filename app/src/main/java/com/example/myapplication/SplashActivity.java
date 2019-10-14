@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.roompersistence;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.animation.Animation;
@@ -8,8 +8,8 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.myapplication.MainActivity;
-import com.example.myapplication.R;
+import com.example.roompersistence.MainActivity;
+import com.example.roompersistence.R;
 
 public class SplashActivity extends AppCompatActivity {
     private TextView tv;
